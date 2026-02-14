@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tacitdynamics/folderSync-cli/releases/download/v1.0.0/foldersync-cli_Windows_x86_64.zip",
+            "bin": [
+                "foldersync-cli.exe"
+            ],
+            "hash": "7d9591e14c87336522e465d480fe28ac59f0066a05b4c878836656fa5306c5b5"
+        },
+        "arm64": {
+            "url": "https://github.com/tacitdynamics/folderSync-cli/releases/download/v1.0.0/foldersync-cli_Windows_arm64.zip",
+            "bin": [
+                "foldersync-cli.exe"
+            ],
+            "hash": "b626d99f7a819a511c4aee96c4d0874ef6abd93f94c120e4cec1a180141a8cd3"
+        }
+    },
+    "description": "A CLI tool to control FolderSync desktop application."
+}
